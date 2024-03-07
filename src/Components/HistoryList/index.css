@@ -1,0 +1,33 @@
+.sub-container {
+  height: 10%;
+  background-color: #3367d6;
+  padding: 25px;
+  display: flex;
+  width: 100vw;
+}
+.image-logo {
+  align-self: center;
+}
+.search {
+  height: 40px;
+  width: 40px;
+  background-color: #2850a7;
+  margin-left: 120px;
+  align-self: center;
+}
+.input {
+  background-color: #2850a7;
+  width: 300px;
+  height: 40px;
+  border-width: 0px;
+}
+.container {
+  display: flex;
+  background-color: #ececec;
+}
+.unlist-container {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}

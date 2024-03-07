@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 1px, 1px;
+}
+.list-container {
+  display: flex;
+}
+.time-paragraph {
+  color: hsl(215, 19%, 35%);
+  margin-right: 20px;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+  align-self: center;
+}
+.title-paragraph {
+  color: black;
+  margin-right: 10px;
+}
+.domine-paragraph {
+  color: #64748b;
+}
+.delete-image {
+  height: 30px;
+  width: 30px;
+  align-self: center;
+  border-width: 0px;
+  background-color: #ececec;
+}
+.delete-button {
+  border: 0px none;
+  background-color: #ececec;
+}
